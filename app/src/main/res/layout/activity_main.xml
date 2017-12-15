@@ -5,7 +5,7 @@
     android:background="#D4D3D3"
     android:orientation="vertical">
 
-    <com.maitian.gridviewpager.GridViewPager
+    <com.abingo.gridviewpager.GridViewPager
         android:id="@+id/mGridViewPager"
         android:layout_height="wrap_content"
         android:background="#FFFFFF"

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gvp_colorPrimary">#1CAF9A</color>
+    <color name="gvp_colorPrimaryDark">#1CAF9A</color>
+    <color name="gvp_colorAccent">#FF4081</color>
+</resources>
