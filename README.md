@@ -2,29 +2,9 @@
 ViewPager+GridView实现首页导航栏布局分页效果
 ![](https://github.com/zhangguobing/GridViewPager/blob/master/20171214_160600.png?raw=true)
 ### 添加依赖
-```
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven {
-            url "https://dl.bintray.com/zhangguobing1222/maven"
-        }
-    }
-}
-```
 * Gradle
 ```
   compile 'com.abingo:gridviewpager:1.0.0'
-```
-* Maven
-```
-<dependency>
-  <groupId>com.abingo</groupId>
-  <artifactId>gridviewpager</artifactId>
-  <version>1.0.0</version>
-  <type>pom</type>
-</dependency>
 ```
 ### 使用：
 ```
