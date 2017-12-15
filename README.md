@@ -1,7 +1,7 @@
 # GridViewPager
 ViewPager+GridView实现首页导航栏布局分页效果
 ![](https://github.com/zhangguobing/GridViewPager/blob/master/20171214_160600.jpg?raw=true)
-###添加依赖
+### 添加依赖
 ```
 allprojects {
     repositories {
@@ -26,7 +26,7 @@ allprojects {
   <type>pom</type>
 </dependency>
 ```
-###使用：
+### 使用：
 ```
 //使用builder模式设计初始化
 mGridViewPager
