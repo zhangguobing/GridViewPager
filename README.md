@@ -1,6 +1,6 @@
 # GridViewPager
 ViewPager+GridView实现首页导航栏布局分页效果
-![](https://github.com/zhangguobing/GridViewPager/blob/master/20171214_160600.jpg?raw=true)
+![](https://github.com/zhangguobing/GridViewPager/blob/master/20171214_160600.png?raw=true)
 ### 添加依赖
 ```
 allprojects {
