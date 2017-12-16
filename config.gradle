@@ -9,7 +9,7 @@ ext {
             group         : "com.abingo", // 项目的group名，第一次定好以后不能改
 
             siteUrl       : 'https://github.com/zhangguobing/GridViewPager', // 项目开源地址
-            gitUrl        : 'git@github.com:zhangguobing/GridViewPager.git', // 项目git克隆地址
+            gitUrl        : 'https://github.com/zhangguobing/GridViewPager.git', // 项目git克隆地址
 
             packaging     : 'aar',
             name          : 'GridViewPager', // 项目名，随意
