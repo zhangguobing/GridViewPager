@@ -25,17 +25,17 @@ import android.widget.GridView;
  * 创建时间: 2017/12/13 下午10:47
  * 描述:高度填满内容的GridView
  */
-public class ExpandGridView extends GridView {
+public class NestedGridView extends GridView {
 
-    public ExpandGridView(Context context) {
+    public NestedGridView(Context context) {
         super(context);
     }
 
-    public ExpandGridView(Context context, AttributeSet attrs) {
+    public NestedGridView(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public ExpandGridView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public NestedGridView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
 
